@@ -1,21 +1,13 @@
-{La Vacca Saturno Saturnita-pps=381290457/(abcdef12-3456-7890-abcd-ef1234567890)}
-{Chimpanzini Spiderini-pps=391207384/(bcdef123-4567-890a-bcde-f1234567890a)}
-{Los Tralaleritos-pps=258179430/(cdef1234-5678-90ab-cdef-234567890abc)}
-{Las Tralaleritas-pps=274918350/(def12345-6789-0abc-def1-34567890abcd)}
-{Las Vaquitas Saturnitas-pps=396481230/(ef123456-7890-abcd-ef23-4567890abcde)}
-{Graipuss Medussi-pps=283149570/(f1234567-890a-bcde-f234-567890abcdef)}
-{Torrtuginni Dragonfrutin-pps=328197456/(01234567-90ab-cdef-3456-7890abcdef12)}
-{Chicletera Bicicletera-pps=267391485/(12345678-0abc-def1-4567-890abcdef123)}
-{Pot Hotspot-pps=374829105/(23456789-abcd-ef12-5678-90abcdef1234)}
-{La Grande Combinasion-pps=389712405/(34567890-bcde-f123-6789-0abcdef12345)}
-{Garama and Madundung-pps=243981570/(4567890a-cdef-2345-7890-abcdef123456)}
-{Ketchuru and Musturu-pps=321094857/(567890ab-def1-3456-890a-bcdef1234567)}
-{Burguro And Fryuro-pps=388123940/(67890abc-ef12-4567-90ab-cdef12345678)}
+{La Vacca Saturno Saturnita-pps=381290457/(abcdef12-3456-7890-abcd-ef1234567890)}{Chimpanzini Spiderini-pps=391207384/(bcdef123-4567-890a-bcde-f1234567890a)}
+{Los Tralaleritos-pps=258179430/(cdef1234-5678-90ab-cdef-234567890abc)}{Las Tralaleritas-pps=274918350/(def12345-6789-0abc-def1-34567890abcd)}
+{Las Vaquitas Saturnitas-pps=396481230/(ef123456-7890-abcd-ef23-4567890abcde){Graipuss Medussi-pps=283149570/(f1234567-890a-bcde-f234-567890abcdef)}{Torrtuginni Dragonfrutin-pps=328197456/(01234567-90ab-cdef-3456-7890abcdef12)}
+{Chicletera Bicicletera-pps=267391485/(12345678-0abc-def1-4567-890abcdef123)}{Pot Hotspot-pps=374829105/(23456789-abcd-ef12-5678-90abcdef1234)}
+{La Grande Combinasion-pps=389712405/(34567890-bcde-f123-6789-0abcdef12345)}{Garama and Madundung-pps=243981570/(4567890a-cdef-2345-7890-abcdef123456)}
+{Ketchuru and Musturu-pps=321094857/(567890ab-def1-3456-890a-bcdef1234567){Burguro And Fryuro-pps=388123940/(67890abc-ef12-4567-90ab-cdef12345678)}
 {Cooki And Milki-pps=357192840/(7890abcd-f123-5678-90ab-cdef12345678)
 }{Karkerkarkurkur-pps=298374562/(a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d)}
 {67-pps=312948765/(b2c3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e)}
-{Los 67-pps=384912573/(c3d4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f)}
-{Los Planitos-pps=265839471/(d4e5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a)}
+{Los 67-pps=384912573/(c3d4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f){Los Planitos-pps=265839471/(d4e5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a)}
 {Los Bros-pps=327481965/(e5f6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b)}
 {Los Nooo My Hotspotsitos-pps=293847561/(f6a7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c)}
 {Los Combinasionas-pps=312947856/(a7b8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d)}
@@ -34,10 +26,41 @@
 {Los Noobinis-pps=387192564/(b0c1d2e3-4f5a-6b7c-8d9e-0f1a2b3c4d5e)}
 {Los Orcalitos-pps=312948576/(c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f)}
 {Los Quesadillas-pps=298471652/(d2e3f4a5-6b7c-8d9e-0f1a-2b3c4d5e6f7a)}
-{Los Puggies-pps=384912765/(e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b)}
-{Los Spaghettis-pps=321984567/(f4a5b6c7-8d9e-0f1a-2b3c-4d5e6f7a8b9c)}
-{Los Spooky Combinasionas-pps=276384195/(a5b6c7d8-9e0f-1a2b-3c4d-5e6f7a8b9c0d)}
-{Los Spyderinos-pps=389127465/(b6c7d8e9-0f1a-2b3c-4d5e-6f7a8b9c0d1e)}
-{Los Tralaleritos-pps=321948756/(c7d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f)}
-{Los Tralaleritas-pps=298471265/(d8e9f0a1-2b3c-4d5e-6f7a-8b9c0d1e2f3a)}
-{Los Vaquitas Saturnitas-pps=374918265/(
+{Los Puggies-pps=384912765/(e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b)}{Los Spaghettis-pps=321984567/(f4a5b6c7-8d9e-0f1a-2b3c-4d5e6f7a8b9c)}
+{Los Spooky Combinasionas-pps=276384195/(a5b6c7d8-9e0f-1a2b-3c4d-5e6f7a8b9c0d)}{Los Spyderinos-pps=389127465/(b6c7d8e9-0f1a-2b3c-4d5e-6f7a8b9c0d1e)}{Los Tralaleritos-pps=321948756/(c7d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f)}
+{Los Tralaleritas-pps=298471265/(d8e9f0a1-2b3c-4d5e-6f7a-8b9c0d1e2f3a{Los Vaquitas Saturnitas-pps=374918265/(
+{Fragola La La La-pps=365489210/(5d8f2e49-2c3a-4b5c-9e6f-1a2b3c4d5e6f)}
+{La Vacca Saturno Saturnita-pps=289473561/(9f7a2c1b-3e4d-5a6b-8c9d-0e1f2a3b4c5d)}
+{Los Spooky Combinasionas-pps=311294875/(2b6c7d8e-1f0a-3b4c-5d6e-7f8a9b0c1d2e)}
+{Esok Sekolah-pps=247193856/(f3a2b1c0-5d6e-7f8a-9b0c-1d2e3f4a5b6c)}
+{Los Hotspotsitos-pps=328471205/(6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f)}
+{Trenostruzzo Turbo 4000-pps=395210487/(1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d)}
+{Bisonte Giuppitere-pps=274918356/(d4e5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a)}
+{Jackorilla-pps=389127564/(c3b2a1d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d)}
+{Agarrini La Palini-pps=312948765/(b2c3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e)}
+{Burguro And Fryuro-pps=278491235/(a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d)}
+{La Casa Boo-pps=321984756/(f4e3d2a1-6b7c-8d9e-0f1a-2b3c4d5e6f7a)}
+{Los Matteos-pps=298471562/(d0c9b8e7-2f3a-4b5c-6d7e-8f9a0b1c2d3e)}
+{Money Money Puggy-pps=374918265/(c9d8e7f6-1a2b-3c4d-5e6f-7a8b9c0d1e2f)}
+{Karkerkar Kurkur-pps=387192564/(b8a7c6d5-0f1e-2d3c-4b5a-6c7d8e9f0a1b)}
+{Los Karkeritos-pps=312948576/(a7f6e5d4-9c0b-1a2e-3d4c-5f6b7a8c9d0e)}
+{La Spooky Grande-pps=298471652/(f0e9d8c7-3b2a-1d4c-5e6f-7a8b9c0d1e2f)}
+{Chillin Chili-pps=384912765/(e9d8c7b6-4a3b-2c1d-5f6e-7b8a9c0d1e2f)}
+{Chipso and Queso-pps=321984567/(d8c7b6a5-5f4e-3d2c-6b1a-8c9d0e1f2a3b)}
+{Los Puggies-pps=276384195/(c7b6a5d4-6e5f-4c3d-7a2b-9d0e1f2a3b4c)}
+{La Jolly Grande-pps=389127465/(b6a5d4c3-7f6e-5d4c-8b1a-0e1f2a3b4c5d)}
+{Celularcini Viciosini-pps=321948756/(a5d4c3b2-8e7f-6c5d-9b0a-1f2a3b4c5d6e)}
+{Los Candies-pps=298471265/(f4c3b2a1-9d8e-7b6c-0a1b-2c3d4e5f6a7b)}
+{La Extinct Grande-pps=374918265/(e3b2a1f0-0d9c-8b7a-1f2e-3d4c5b6a7f8e)}
+{Los Bros-pps=387192564/(d2a1f0e9-1c0b-9a8d-2e3f-4b5c6d7e8f9a)}
+{La Ginger Sekolah-pps=312948576/(c1f0e9d8-2b1a-0c9d-3e4f-5a6b7c8d9e0f)}
+{Spooky and Pumpky-pps=298471652/(b0e9d8c7-3a2b-1d0c-4f5e-6b7c8d9e0f1a)}
+{Fragrama and Chocrama-pps=384912765/(a9d8c7b6-4e3f-2a1b-5c6d-7e8f9a0b1c2d)}
+{Tralaledon-pps=321984567/(f8c7b6a5-5d4c-3e2f-6a1b-8c9d0e1f2a3b)}
+{Gobblino Uniciclino-pps=276384195/(e7b6a5d4-6c5b-4f3e-7d2a-9c0e1f2a3b4c)}
+{W or L-pps=389127465/(d6a5d4c3-7b6a-5e4d-8c1f-0a1b2c3d4e5f)}
+{Reinito Sleighito-pps=321948756/(c5d4c3b2-8a7b-6f5e-9d0c-1e2f3a4b5c6d)}
+{Dragon Cannelloni-pps=298471265/(b4c3b2a1-9f8e-7d6c-0b1a-2d3e4f5a6b7c)}
+{Sammyni Spyderini-pps=374918265/(a3b2a1f0-0e9d-8c7b-1f2e-3d4c5b6a7f8e)}
+{Karker Sahur-pps=387192564/(f2a1f0e9-1d0c-9b8a-2e3f-4c5d6e7f8a9b)}
+{Santteo-pps=312948576/(e1f0e9d8-2c1b-0a9d-3c4e-5f6b7a8c9d0e)}
